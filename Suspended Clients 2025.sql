@@ -2,5 +2,5 @@ select CustId, CustCode, ClientCustDesc, SuspendReason, SuspendDate, PhysicalAdd
 from vw_SF_ClientDetails
 where SuspendMode = 'Y'
 and CustId > 1
-and SuspendDate >= '01 January 2024'
+and SuspendDate >= '01 January 2025'
 order by SuspendDate

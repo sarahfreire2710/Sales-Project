@@ -18,8 +18,8 @@ Information relating to the geographical region of sale is also available for in
       Tools Used: Excel
       Actions:
         - manipulated data by identifying clients to be removed through conditional formatting
-        - correctly formatted all columns
-        - removed irrelevant data from table
+        - correctly formatted all columns according to their data type
+        - removed irrelevant data from table through sorting and filtering
 
 ## 3. Data Visualization
       Tools Used: Power BI

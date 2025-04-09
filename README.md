@@ -1,4 +1,4 @@
-# Sales-Project
+# Security-Industry-Sales-Project
 Sales performance analysis for a company in the Security Industry.
 
 # Project Objective
